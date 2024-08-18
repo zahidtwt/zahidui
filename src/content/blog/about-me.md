@@ -12,7 +12,9 @@ description:
   Welcome post for my blog site.
 ---
 
-<img src="https://github.com/user-attachments/assets/8205b929-b84d-4819-bf92-f493e1766ec2" alt="CleanShot 2024-08-18" width="200"/>
+![ca2c6732d141ae2303a0930d72b90d08df4671b20fb12cb5311ef036b2c46d50 (1)](https://github.com/user-attachments/assets/797a33f1-96bc-4f46-bd0f-6ff85f39636c)
+
+
 
 # About Me
 
