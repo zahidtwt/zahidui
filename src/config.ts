@@ -12,8 +12,9 @@ export const GISCUS: GiscusProps = {
   inputPosition: "bottom",
   lang: "en",
   loading: "lazy",
-  crossorigin="anonymous"
+  crossorigin: "anonymous"
 };
+
 export const SITE: Site = {
   website: "https://zahidui.com/", 
   author: "Zahid Ul Islam",
