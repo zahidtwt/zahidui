@@ -21,7 +21,7 @@ export const SITE: Site = {
   profile: "https://zahidui.com/",
   desc: "A passionate frontend programmer.",
   title: "Zahid Ul Islam",
-  ogImage: "astropaper-og.jpg",
+  // ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
