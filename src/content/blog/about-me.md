@@ -14,7 +14,6 @@ description:
 
 ![ca2c6732d141ae2303a0930d72b90d08df4671b20fb12cb5311ef036b2c46d50 (1)](https://github.com/user-attachments/assets/797a33f1-96bc-4f46-bd0f-6ff85f39636c)
 
-![Back to top button in AstroPaper](https://github.com/satnaing/astro-paper/assets/53733092/79854957-7877-4f19-936e-ad994b772074)
 
 
 # About Me
