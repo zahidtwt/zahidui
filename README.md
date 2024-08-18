@@ -1,16 +1,3 @@
----
-author: Zahid Ul Islam
-pubDatetime: 2024-08-18T13:50:18.255Z
-modDatetime: 2024-08-18T13:50:18.255Z
-title: About me!
-slug: about-me
-featured: true
-draft: false
-tags:
-  - about
-description:
-  Let's explore about me.
----
 
 ![ca2c6732d141ae2303a0930d72b90d08df4671b20fb12cb5311ef036b2c46d50 (1)](https://github.com/user-attachments/assets/797a33f1-96bc-4f46-bd0f-6ff85f39636c)
 
