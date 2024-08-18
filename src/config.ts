@@ -1,7 +1,21 @@
 import type { Site, SocialObjects } from "./types";
+import type { GiscusProps } from "@giscus/react";
 
+export const GISCUS: GiscusProps = {
+  repo: "zahidtwt/zahidui",
+  repoId: "R_kgDOMk-o1g",
+  category: "Announcements",
+  categoryId: "DIC_kwDOMk-o1s4ChwnO",
+  mapping: "pathname",
+  reactionsEnabled: "0",
+  emitMetadata: "0",
+  inputPosition: "bottom",
+  lang: "en",
+  loading: "lazy",
+  crossorigin="anonymous"
+};
 export const SITE: Site = {
-  website: "https://zahidui.com/", // replace this with your deployed domain
+  website: "https://zahidui.com/", 
   author: "Zahid Ul Islam",
   profile: "https://zahidui.com/",
   desc: "A passionate frontend programmer.",
