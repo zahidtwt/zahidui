@@ -4,8 +4,8 @@ import type { GiscusProps } from "@giscus/react";
 export const GISCUS: GiscusProps = {
   repo: "zahidtwt/zahidui",
   repoId: "R_kgDOMk-o1g",
-  category: "Announcements",
-  categoryId: "DIC_kwDOMk-o1s4ChwnO",
+  category: "General",
+  categoryId: "DIC_kwDOMk-o1s4ChwnP",
   mapping: "pathname",
   reactionsEnabled: "0",
   emitMetadata: "0",
